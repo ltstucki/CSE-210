@@ -1,5 +1,5 @@
 # CSE-210
-Folder for Programming with Classes
-(This is my test edit for Github)
-[READ ME FILE]
+THIS IS MY CSE210 PERSONAL READ ME FILE
+
++-- All of Landon Stucki's notes and personal projects will be found in this GitHub Repository.
 
